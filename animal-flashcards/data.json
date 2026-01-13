@@ -1,0 +1,753 @@
+[
+  {
+    "category": "jungle",
+    "animals": [
+      {
+        "name": "Tiger",
+        "funFact": "Tigers have striped skin, not just striped fur."
+      },
+      {
+        "name": "Monkey",
+        "funFact": "Some monkeys use tools like rocks to open food."
+      },
+      {
+        "name": "Elephant",
+        "funFact": "Elephants can recognize themselves in a mirror."
+      },
+      {
+        "name": "Parrot",
+        "funFact": "Parrots can live for more than 50 years."
+      },
+      { "name": "Snake", "funFact": "Snakes smell with their tongues." },
+      { "name": "Frog", "funFact": "Frogs can breathe through their skin." },
+      {
+        "name": "Jaguar",
+        "funFact": "Jaguars are strong swimmers and love water."
+      },
+      {
+        "name": "Toucan",
+        "funFact": "A toucan’s big beak helps keep it cool."
+      },
+      {
+        "name": "Sloth",
+        "funFact": "Sloths move so slowly that algae can grow on their fur."
+      },
+      {
+        "name": "Crocodile",
+        "funFact": "Crocodiles have the strongest bite of any animal."
+      },
+      {
+        "name": "Chimpanzee",
+        "funFact": "Chimpanzees can learn sign language."
+      },
+      {
+        "name": "Black Panther",
+        "funFact": "Black panthers are big cats with dark fur."
+      },
+      {
+        "name": "Bat",
+        "funFact": "Bats use sound to find their way in the dark."
+      },
+      {
+        "name": "Lizard",
+        "funFact": "Some lizards can drop their tail to escape danger."
+      },
+      {
+        "name": "Orangutan",
+        "funFact": "Orangutans spend most of their life in trees."
+      },
+      {
+        "name": "Boa Snake",
+        "funFact": "Boa snakes squeeze their prey instead of using poison."
+      },
+      {
+        "name": "Anteater",
+        "funFact": "Anteaters have long tongues to eat ants."
+      },
+      {
+        "name": "Poison Frog",
+        "funFact": "Some poison frogs are very bright to warn predators."
+      },
+      {
+        "name": "Tapir",
+        "funFact": "Tapirs look like pigs with a short trunk."
+      },
+      {
+        "name": "Macaw Parrot",
+        "funFact": "Macaw parrots use strong beaks to crack hard nuts."
+      }
+    ]
+  },
+  {
+    "category": "sea",
+    "animals": [
+      {
+        "name": "Dolphin",
+        "funFact": "Dolphins are very intelligent and can recognize themselves in mirrors."
+      },
+      {
+        "name": "Shark",
+        "funFact": "Sharks have been around for over 400 million years."
+      },
+      {
+        "name": "Octopus",
+        "funFact": "Octopuses have three hearts and blue blood."
+      },
+      {
+        "name": "Sea Turtle",
+        "funFact": "Sea turtles can live for more than 100 years."
+      },
+      {
+        "name": "Jellyfish",
+        "funFact": "Some jellyfish are biologically immortal."
+      },
+      {
+        "name": "Clownfish",
+        "funFact": "Clownfish can change sex depending on the colony."
+      },
+      { "name": "Seahorse", "funFact": "Male seahorses carry the babies." },
+      { "name": "Starfish", "funFact": "Starfish can regrow lost arms." },
+      {
+        "name": "Crab",
+        "funFact": "Crabs walk sideways and have strong pincers."
+      },
+      { "name": "Lobster", "funFact": "Lobsters can live over 50 years." },
+      { "name": "Penguin", "funFact": "Penguins are birds but cannot fly." },
+      {
+        "name": "Whale",
+        "funFact": "Blue whales are the largest animals on Earth."
+      },
+      {
+        "name": "Seal",
+        "funFact": "Seals can hold their breath for over 20 minutes."
+      },
+      {
+        "name": "Swordfish",
+        "funFact": "Swordfish can swim at speeds up to 60 km/h."
+      },
+      {
+        "name": "Angelfish",
+        "funFact": "Angelfish are brightly colored and popular in aquariums."
+      },
+      {
+        "name": "Moray Eel",
+        "funFact": "Moray eels have sharp teeth and hide in crevices."
+      },
+      {
+        "name": "Sea Lion",
+        "funFact": "Sea lions are playful and social animals."
+      },
+      {
+        "name": "Coral",
+        "funFact": "Corals are animals that build reefs with calcium carbonate."
+      },
+      {
+        "name": "Manta Ray",
+        "funFact": "Manta rays can have a wingspan of 7 meters."
+      },
+      {
+        "name": "Hermit Crab",
+        "funFact": "Hermit crabs use empty shells to protect their soft bodies."
+      }
+    ]
+  },
+  {
+    "category": "Dinosaurs",
+    "animals": [
+      {
+        "name": "T-Rex",
+        "funFact": "Tyrannosaurus rex had the strongest bite of any land animal."
+      },
+      {
+        "name": "Triceratops",
+        "funFact": "Triceratops had three horns and a bony frill for defense."
+      },
+      {
+        "name": "Velociraptor",
+        "funFact": "Velociraptors were feathered and fast hunters."
+      },
+      {
+        "name": "Brachiosaurus",
+        "funFact": "Brachiosaurus had a long neck to reach tall trees."
+      },
+      {
+        "name": "Stegosaurus",
+        "funFact": "Stegosaurus had plates on its back for protection."
+      },
+      {
+        "name": "Pterodactyl",
+        "funFact": "Pterodactyls could fly using their winged arms."
+      },
+      {
+        "name": "Ankylosaurus",
+        "funFact": "Ankylosaurus had a club-like tail for defense."
+      },
+      {
+        "name": "Spinosaurus",
+        "funFact": "Spinosaurus was one of the largest carnivorous dinosaurs."
+      },
+      {
+        "name": "Allosaurus",
+        "funFact": "Allosaurus hunted in packs and was very agile."
+      },
+      {
+        "name": "Diplodocus",
+        "funFact": "Diplodocus had a whip-like tail and a very long neck."
+      },
+      {
+        "name": "Iguanodon",
+        "funFact": "Iguanodons had large thumb spikes for defense."
+      },
+      {
+        "name": "Parasaurolophus",
+        "funFact": "They had a long curved crest for making sounds."
+      },
+      {
+        "name": "Carnotaurus",
+        "funFact": "Carnotaurus had small arms and two horns above its eyes."
+      },
+      {
+        "name": "Coelophysis",
+        "funFact": "Coelophysis was one of the earliest known dinosaurs."
+      },
+      {
+        "name": "Pachycephalosaurus",
+        "funFact": "They had thick domed skulls used for head-butting."
+      },
+      {
+        "name": "Megalosaurus",
+        "funFact": "Megalosaurus was the first dinosaur ever described scientifically."
+      },
+      {
+        "name": "Therizinosaurus",
+        "funFact": "Therizinosaurus had huge claws up to a meter long."
+      },
+      {
+        "name": "Sauropelta",
+        "funFact": "Sauropelta had armor plating for protection."
+      },
+      {
+        "name": "Dilophosaurus",
+        "funFact": "Dilophosaurus had a crest on its head and could run fast."
+      },
+      {
+        "name": "Compsognathus",
+        "funFact": "Compsognathus was a small, fast, carnivorous dinosaur."
+      }
+    ]
+  },
+  {
+    "category": "farm",
+    "animals": [
+      {
+        "name": "Cow",
+        "funFact": "Cows can remember faces and are very social."
+      },
+      {
+        "name": "Chicken",
+        "funFact": "Chickens can recognize over 100 faces."
+      },
+      {
+        "name": "Pig",
+        "funFact": "Pigs are very intelligent and clean animals."
+      },
+      {
+        "name": "Sheep",
+        "funFact": "Sheep have excellent memory and can recognize people."
+      },
+      { "name": "Goat", "funFact": "Goats are curious and climb well." },
+      {
+        "name": "Horse",
+        "funFact": "Horses can sleep both lying down and standing up."
+      },
+      {
+        "name": "Duck",
+        "funFact": "Ducks have waterproof feathers and can sleep with one eye open."
+      },
+      { "name": "Turkey", "funFact": "Turkeys can run up to 20 mph." },
+      {
+        "name": "Donkey",
+        "funFact": "Donkeys have great memory and can recognize areas."
+      },
+      { "name": "Rabbit", "funFact": "Rabbits have nearly 360-degree vision." },
+      {
+        "name": "Goose",
+        "funFact": "Geese are protective and migrate long distances."
+      },
+      {
+        "name": "Llama",
+        "funFact": "Llamas are social animals and spit when annoyed."
+      },
+      {
+        "name": "Alpaca",
+        "funFact": "Alpacas communicate with gentle humming sounds."
+      },
+      {
+        "name": "Bee",
+        "funFact": "Bees are farm animals that pollinate plants."
+      },
+      {
+        "name": "Cat",
+        "funFact": "Cats can live on farms and help control rodents."
+      },
+      { "name": "Dog", "funFact": "Dogs on farms help herd livestock." },
+      {
+        "name": "Peacock",
+        "funFact": "Peacocks are colorful birds often found near farms."
+      },
+      {
+        "name": "Quail",
+        "funFact": "Quails are small birds that can fly quickly."
+      },
+      {
+        "name": "Mule",
+        "funFact": "Mules are strong hybrids of horse and donkey."
+      },
+      { "name": "Goatling", "funFact": "Young goats are playful and curious." }
+    ]
+  },
+  {
+    "category": "forest",
+    "animals": [
+      {
+        "name": "Deer",
+        "funFact": "Deer can run very fast to escape predators."
+      },
+      {
+        "name": "Fox",
+        "funFact": "Foxes are clever and adapt to many environments."
+      },
+      {
+        "name": "Bear",
+        "funFact": "Bears can hibernate for months without eating."
+      },
+      {
+        "name": "Owl",
+        "funFact": "Owls can rotate their heads almost 270 degrees."
+      },
+      { "name": "Wolf", "funFact": "Wolves hunt in packs using teamwork." },
+      {
+        "name": "Raccoon",
+        "funFact": "Raccoons are nocturnal and have dexterous paws."
+      },
+      {
+        "name": "Hedgehog",
+        "funFact": "Hedgehogs roll into a ball for protection."
+      },
+      {
+        "name": "Squirrel",
+        "funFact": "Squirrels can remember where they hide food."
+      },
+      {
+        "name": "Woodpecker",
+        "funFact": "Woodpeckers peck trees to find insects and make nests."
+      },
+      {
+        "name": "Moose",
+        "funFact": "Moose are the largest members of the deer family."
+      },
+      {
+        "name": "Badger",
+        "funFact": "Badgers dig extensive burrows and are nocturnal."
+      },
+      {
+        "name": "Chipmunk",
+        "funFact": "Chipmunks store food in their cheek pouches."
+      },
+      { "name": "Skunk", "funFact": "Skunks spray to defend themselves." },
+      {
+        "name": "Bat",
+        "funFact": "Forest bats use echolocation to hunt at night."
+      },
+      {
+        "name": "Beaver",
+        "funFact": "Beavers build dams and lodges to survive."
+      },
+      {
+        "name": "Lynx",
+        "funFact": "Lynx have tufted ears and are stealthy hunters."
+      },
+      { "name": "Hawk", "funFact": "Hawks have excellent eyesight to hunt." },
+      {
+        "name": "Porcupine",
+        "funFact": "Porcupines have sharp quills for defense."
+      },
+      { "name": "Marten", "funFact": "Martens are agile forest carnivores." },
+      {
+        "name": "Coyote",
+        "funFact": "Coyotes are adaptable and can live near humans."
+      }
+    ]
+  },
+  {
+    "category": "savanna",
+    "animals": [
+      {
+        "name": "Lion",
+        "funFact": "Lions are called the kings of the savanna."
+      },
+      {
+        "name": "Elephant",
+        "funFact": "Savanna elephants have large ears to stay cool."
+      },
+      {
+        "name": "Giraffe",
+        "funFact": "Giraffes have long necks to reach tall trees."
+      },
+      {
+        "name": "Zebra",
+        "funFact": "Zebras have unique black and white stripes."
+      },
+      {
+        "name": "Cheetah",
+        "funFact": "Cheetahs are the fastest land animals."
+      },
+      {
+        "name": "Hyena",
+        "funFact": "Hyenas have strong jaws and hunt in packs."
+      },
+      {
+        "name": "Buffalo",
+        "funFact": "Buffalo are strong and dangerous in herds."
+      },
+      {
+        "name": "Wildebeest",
+        "funFact": "Wildebeest migrate in huge herds across the savanna."
+      },
+      { "name": "Gazelle", "funFact": "Gazelles are very fast and agile." },
+      {
+        "name": "Ostrich",
+        "funFact": "Ostriches are the largest birds and cannot fly."
+      },
+      {
+        "name": "Meerkat",
+        "funFact": "Meerkats live in groups and keep watch for predators."
+      },
+      {
+        "name": "Kudu",
+        "funFact": "Kudus have twisted horns and are good jumpers."
+      },
+      {
+        "name": "Rhino",
+        "funFact": "Rhinos have thick skin and a strong horn for defense."
+      },
+      {
+        "name": "Baboon",
+        "funFact": "Baboons are social and live in large troops."
+      },
+      {
+        "name": "Impala",
+        "funFact": "Impala can leap up to 10 meters in a single jump."
+      },
+      {
+        "name": "Hippo",
+        "funFact": "Hippos spend most of their time in water to stay cool."
+      },
+      {
+        "name": "Jackal",
+        "funFact": "Jackals are clever scavengers and hunters."
+      },
+      {
+        "name": "Vulture",
+        "funFact": "Vultures eat carrion and help keep the savanna clean."
+      },
+      {
+        "name": "Serval",
+        "funFact": "Servals are cats with long legs and excellent jumping skills."
+      },
+      {
+        "name": "Topi",
+        "funFact": "Topis are antelopes that live in herds for protection."
+      }
+    ]
+  },
+  {
+    "category": "desert",
+    "animals": [
+      {
+        "name": "Camel",
+        "funFact": "Camels can survive without water for weeks."
+      },
+      {
+        "name": "Fennec Fox",
+        "funFact": "Fennec foxes have big ears to stay cool."
+      },
+      {
+        "name": "Scorpion",
+        "funFact": "Scorpions can survive in extreme heat."
+      },
+      {
+        "name": "Horned Lizard",
+        "funFact": "Horned lizards can shoot blood from their eyes to escape predators."
+      },
+      {
+        "name": "Rattlesnake",
+        "funFact": "Rattlesnakes use their tail to warn others."
+      },
+      {
+        "name": "Coyote",
+        "funFact": "Desert coyotes hunt small animals at night."
+      },
+      {
+        "name": "Desert Tortoise",
+        "funFact": "Desert tortoises can live 50 years or more."
+      },
+      {
+        "name": "Meerkat",
+        "funFact": "Meerkats live in desert burrows and hunt insects."
+      },
+      {
+        "name": "Sidewinder Snake",
+        "funFact": "Sidewinders move sideways to avoid hot sand."
+      },
+      {
+        "name": "Kangaroo Rat",
+        "funFact": "They can survive without drinking water at all."
+      },
+      {
+        "name": "Jerboa",
+        "funFact": "Jerboas hop like tiny desert kangaroos."
+      },
+      {
+        "name": "Scarab Beetle",
+        "funFact": "Scarab beetles roll dung for food and nesting."
+      },
+      {
+        "name": "Dromedary",
+        "funFact": "Dromedaries are camels with one hump."
+      },
+      {
+        "name": "Gila Monster",
+        "funFact": "Gila monsters are venomous lizards of the desert."
+      },
+      {
+        "name": "Desert Hare",
+        "funFact": "Desert hares are fast and avoid heat by being nocturnal."
+      },
+      {
+        "name": "Sand Cat",
+        "funFact": "Sand cats are small wild cats adapted to desert life."
+      },
+      {
+        "name": "Oryx",
+        "funFact": "Oryx can survive without water for long periods."
+      },
+      {
+        "name": "Vulture",
+        "funFact": "Desert vultures are scavengers that fly long distances."
+      },
+      {
+        "name": "Addax",
+        "funFact": "Addaxes are desert antelopes with long, twisted horns."
+      },
+      {
+        "name": "Burrowing Owl",
+        "funFact": "Burrowing owls live in desert burrows and hunt insects at night."
+      }
+    ]
+  },
+  {
+    "category": "arctic",
+    "animals": [
+      {
+        "name": "Polar Bear",
+        "funFact": "Polar bears can swim for long distances in freezing water."
+      },
+      {
+        "name": "Arctic Fox",
+        "funFact": "Arctic foxes change fur color with seasons."
+      },
+      {
+        "name": "Snowy Owl",
+        "funFact": "Snowy owls hunt during the day and night."
+      },
+      {
+        "name": "Walrus",
+        "funFact": "Walruses have long tusks for defense and climbing ice."
+      },
+      {
+        "name": "Seal",
+        "funFact": "Seals can hold their breath for over 20 minutes."
+      },
+      {
+        "name": "Narwhal",
+        "funFact": "Narwhals are known as the unicorns of the sea."
+      },
+      {
+        "name": "Beluga Whale",
+        "funFact": "Belugas are very social and communicate with clicks."
+      },
+      { "name": "Reindeer", "funFact": "Reindeer can see ultraviolet light." },
+      {
+        "name": "Musk Ox",
+        "funFact": "Musk oxen have thick coats to survive the cold."
+      },
+      {
+        "name": "Arctic Hare",
+        "funFact": "Arctic hares can run fast and hide in snow."
+      },
+      {
+        "name": "Lemming",
+        "funFact": "Lemmings are small rodents that live in tundra areas."
+      },
+      {
+        "name": "Polar Cod",
+        "funFact": "Polar cod survive under ice in freezing water."
+      },
+      {
+        "name": "Ptarmigan",
+        "funFact": "Ptarmigans change color to camouflage in snow."
+      },
+      {
+        "name": "Orca",
+        "funFact": "Orcas are apex predators in Arctic waters."
+      },
+      {
+        "name": "Arctic Wolf",
+        "funFact": "Arctic wolves hunt in packs for survival."
+      },
+      {
+        "name": "Bearded Seal",
+        "funFact": "Bearded seals use ice holes for breathing and resting."
+      },
+      {
+        "name": "Harp Seal",
+        "funFact": "Harp seals have black spots on white fur as pups."
+      },
+      {
+        "name": "Ringed Seal",
+        "funFact": "Ringed seals make breathing holes in ice."
+      },
+      {
+        "name": "Polar Bear Cub",
+        "funFact": "Polar bear cubs stay with their mothers for two years."
+      },
+      {
+        "name": "Narwhal Calf",
+        "funFact": "Narwhal calves are born in the Arctic spring."
+      }
+    ]
+  },
+  {
+    "category": "birds",
+    "animals": [
+      { "name": "Eagle", "funFact": "Eagles have extremely sharp eyesight." },
+      { "name": "Parrot", "funFact": "Parrots can mimic human speech." },
+      {
+        "name": "Owl",
+        "funFact": "Owls can rotate their heads almost 270 degrees."
+      },
+      {
+        "name": "Penguin",
+        "funFact": "Penguins cannot fly but are excellent swimmers."
+      },
+      {
+        "name": "Hummingbird",
+        "funFact": "Hummingbirds can flap wings up to 80 times per second."
+      },
+      {
+        "name": "Flamingo",
+        "funFact": "Flamingos get their pink color from their diet."
+      },
+      { "name": "Swan", "funFact": "Swans mate for life." },
+      {
+        "name": "Peacock",
+        "funFact": "Peacocks display colorful tail feathers to attract mates."
+      },
+      {
+        "name": "Canary",
+        "funFact": "Canaries are known for their singing ability."
+      },
+      {
+        "name": "Woodpecker",
+        "funFact": "Woodpeckers peck trees to find insects."
+      },
+      { "name": "Crow", "funFact": "Crows are highly intelligent birds." },
+      {
+        "name": "Albatross",
+        "funFact": "Albatrosses can fly thousands of kilometers without landing."
+      },
+      {
+        "name": "Seagull",
+        "funFact": "Seagulls are social and opportunistic feeders."
+      },
+      { "name": "Duck", "funFact": "Ducks have waterproof feathers." },
+      { "name": "Goose", "funFact": "Geese migrate long distances in flocks." },
+      {
+        "name": "Kiwi",
+        "funFact": "Kiwis are flightless birds from New Zealand."
+      },
+      { "name": "Toucan", "funFact": "Toucans have large colorful beaks." },
+      { "name": "Cockatoo", "funFact": "Cockatoos are very social and noisy." },
+      { "name": "Macaw", "funFact": "Macaws are large colorful parrots." },
+      {
+        "name": "Pelican",
+        "funFact": "Pelicans have large beaks to scoop fish from water."
+      }
+    ]
+  },
+  {
+    "category": "bugs",
+    "animals": [
+      { "name": "Butterfly", "funFact": "Butterflies taste with their feet." },
+      { "name": "Bee", "funFact": "Bees communicate using dances." },
+      {
+        "name": "Ant",
+        "funFact": "Ants can lift objects many times their own weight."
+      },
+      { "name": "Ladybug", "funFact": "Ladybugs eat pests like aphids." },
+      { "name": "Dragonfly", "funFact": "Dragonflies can fly backward." },
+      {
+        "name": "Grasshopper",
+        "funFact": "Grasshoppers can jump 20 times their body length."
+      },
+      {
+        "name": "Praying Mantis",
+        "funFact": "Praying mantises are skilled hunters."
+      },
+      {
+        "name": "Cockroach",
+        "funFact": "Cockroaches can survive without food for weeks."
+      },
+      {
+        "name": "Firefly",
+        "funFact": "Fireflies produce light to attract mates."
+      },
+      {
+        "name": "Cicada",
+        "funFact": "Cicadas make loud noises using membranes on their abdomen."
+      },
+      { "name": "Cricket", "funFact": "Crickets chirp to attract mates." },
+      {
+        "name": "Termite",
+        "funFact": "Termites can destroy wood structures in homes."
+      },
+      {
+        "name": "Wasp",
+        "funFact": "Wasps are predators and can sting repeatedly."
+      },
+      {
+        "name": "Beetle",
+        "funFact": "Beetles are the largest group of insects on Earth."
+      },
+      { "name": "Spider", "funFact": "Spiders spin silk to make webs." },
+      {
+        "name": "Mosquito",
+        "funFact": "Mosquitoes feed on blood for reproduction."
+      },
+      { "name": "Fly", "funFact": "Flies taste with their feet." },
+      {
+        "name": "Moth",
+        "funFact": "Moths are nocturnal relatives of butterflies."
+      },
+      {
+        "name": "Grasshopper Nymph",
+        "funFact": "Young grasshoppers molt several times to grow."
+      },
+      {
+        "name": "Ladybird Larva",
+        "funFact": "Ladybird larvae eat many pests before becoming adults."
+      }
+    ]
+  }
+]
