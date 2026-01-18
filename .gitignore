@@ -4,3 +4,4 @@
 *.png
 *.js
 *.md
+__pycache__/*
